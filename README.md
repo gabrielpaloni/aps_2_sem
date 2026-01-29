@@ -14,8 +14,8 @@
 ### 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3 snake
 * **Armazenamento:** JSON 🗄️
-* **Bibliotecas:** * `colorama` (Interface)
-  * `os` & `time` (Sistema e UX)
+* **Bibliotecas:** `colorama` (Interface)
+   `os` & `time` (Sistema e UX)
 
 ### 🚀 Como Executar
 
