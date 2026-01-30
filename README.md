@@ -27,3 +27,14 @@
 ## Run it!
 ```bash
 python projetoFinal.py
+```
+
+---
+
+## 👥 Contributors (Team)
+
+* **Ana Paula** - *Developer & Collaborator*
+* **Gabriel Paloni** - *Developer & Project Lead*
+* **Hector Uriel** - *Developer & Collaborator*
+
+---
